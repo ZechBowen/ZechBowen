@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZechBowen
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning more about Unity and App Development
-- 💞️ I’m looking to collaborate on Game Projects
+- 💞️ I’m looking to collaborate on Various Projects such as Viedo Games, Apps, Websites & etc.
 - 📫 Email me @ zecherybowen@yahoo.com
 
 <!---
