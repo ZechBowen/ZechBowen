@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZechBowen
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning more about MongoDB, Express.js, React.js
+- 🌱 I’m currently learning more about MongoDB, Express.js, React.js, Node.js
 - 💞️ I’m looking to collaborate on Various Full-Stack Projects
 - 📫 Email me @ zechbowen@gmail.com
 
